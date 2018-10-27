@@ -1,7 +1,7 @@
 # PrefCrypt
-Encrypted Shared Preferences for android
+Encrypted Shared Preferences for android.
 
-A library to securely encrypt shared preferences
+A collection of libraries to securely encrypt shared preferences.
 
 # Existing Libraries
 
